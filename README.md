@@ -123,5 +123,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 📫 Contact
 
 For questions, ideas, or feedback:  
-📧 Email: [deepghosh146@gmail.com]  
-🌐 Website: [your-portfolio-link.com]
+📧 Email: deepghosh146@gmail.com 
+🌐 Website: deepghoshdev.netlify.app
